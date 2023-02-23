@@ -1,8 +1,8 @@
 *.zip
-terraform.tfvars
+# terraform.tfvars
 *.pem
 .terraform*
-terraform.*
+# terraform.*
 !terraform.tfvars.original
 
 # Secure files
