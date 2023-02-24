@@ -27,6 +27,7 @@ okta_issuer = "https://dev-53854943.okta.com/oauth2/default"
 roost_jwt_token = "abcdadslkjfla1394cfvbwrjq458416318vdacav31e31jdacvjvdfksda"
 
 company = "TestGoRoost"
+roost_version = "latest"
 company_logo = "https://roost.ai/hubfs/logos/Roost.ai-logo-gold.svg"
 enterprise_email_domain = "zb.io"
 admin_email = "kbvivek@zb.io"
