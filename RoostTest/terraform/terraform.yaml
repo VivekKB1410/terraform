@@ -1,0 +1,8 @@
+
+
+describe('GET /', () => {
+    it('should return status code 201', async () => {
+        const response = await request.get(`${ROOST_SVC_URL}/`);
+        expect(response.status).to.equal(201);
+    });
+});

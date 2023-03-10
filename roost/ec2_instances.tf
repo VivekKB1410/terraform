@@ -248,7 +248,7 @@ resource "null_resource" "provision-controlplane" {
     inline = [
       "mkdir -p /var/tmp/Roost",
     ]
-     on_failure = fail
+    on_failure = fail
   }
 
   provisioner "remote-exec" {
